@@ -100,5 +100,5 @@ Our team of 5 members employed Agile methodology over 5 days to develop StarCine
 
 ## Organizations
 
-- [WebPage](https://github.com/abdullah-dabash/cinema-tickets.git)
+- [WebPage](https://github.com/AbdelRahman-Alwabarneh/Star-Cinemas/tree/main)
 - [Dashboard](https://github.com/AbdelRahman-Alwabarneh/Star_Cinemas_Admin_Dashboard)
